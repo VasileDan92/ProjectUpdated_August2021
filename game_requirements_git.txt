@@ -1,0 +1,18 @@
+Game requirements:
+
+Minimum System Requirements:
+	Processor: Intel Atom or Intel Core i3
+	Memory: at least 2GB of RAM
+	Disk space: 1GB
+	Operating system: Windows 7 or later, macOS and Linux
+	Python versions: 2.7.X, 3.6.X
+
+Recomended System Requirements:
+	Processor: Intel Core i5 4300M or later 
+	Memory: at least 2GB of RAM
+	Disk space: 2 to 3 GB
+	Operating system: Windows 10, macOS and Linux
+	Python versions: any version
+
+Graphics card: Python is not GPU heavy so any graphics card will be ok
+
